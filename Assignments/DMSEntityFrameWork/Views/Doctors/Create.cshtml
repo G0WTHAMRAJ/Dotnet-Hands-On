@@ -1,0 +1,43 @@
+﻿@model DMSEntityFrameWork.Models.Doctor
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Doctor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" value=@TempData["Name"]/>
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="qualification" class="control-label"></label>
+                <input asp-for="qualification" class="form-control" value=@TempData["Qualification"] />
+                <span asp-validation-for="qualification" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="specialisation" class="control-label"></label>
+                <input asp-for="specialisation" class="form-control" value=@TempData["Specialisation"] />
+                <span asp-validation-for="specialisation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

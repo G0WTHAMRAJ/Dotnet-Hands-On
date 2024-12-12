@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <form asp-action="CreateDoctor" asp-controller="Home" method="post">
+        <label for="Name">Name</label>
+        <input type="text" id="Name" name="Name"/>
+        <label for=" Qualification">Qualification</label>
+        <input type="text" id="Qualification" name="Qualification"/>
+        <label for="Specialisation">Specialisation</label>
+        <select id="Specialisation" name="Specialisation">
+            <option value="cardiology">Cardiology</option>
+            <option value="neurology">Neurology</option>
+            <option value="orthopedics">Orthopedics</option>
+            <option value="pediatrics">Pediatrics</option>
+            <option value="dermatology">Dermatology</option>
+        </select>
+        <input type="submit" value="SubmitData"/>
+    </form>
+</div>

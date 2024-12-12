@@ -1,0 +1,7 @@
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\GenericsProject\GenericsProject\bin\Debug\GenericsProject.exe.config
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\GenericsProject\GenericsProject\bin\Debug\GenericsProject.exe
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\GenericsProject\GenericsProject\bin\Debug\GenericsProject.pdb
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\GenericsProject\GenericsProject\obj\Debug\GenericsProject.csproj.AssemblyReference.cache
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\GenericsProject\GenericsProject\obj\Debug\GenericsProject.csproj.CoreCompileInputs.cache
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\GenericsProject\GenericsProject\obj\Debug\GenericsProject.exe
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\GenericsProject\GenericsProject\obj\Debug\GenericsProject.pdb

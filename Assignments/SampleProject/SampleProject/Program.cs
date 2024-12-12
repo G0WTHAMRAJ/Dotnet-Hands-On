@@ -85,6 +85,10 @@ namespace SampleProject
             car.Start("smart");
             car.Start(true, "keyless");
 
+            ArrayList arrayList = new ArrayList();
+            arrayList.Add(10);
+            Console.WriteLine(arrayList);
+
 
             Console.ReadKey();
         }

@@ -1,0 +1,7 @@
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\Reference\Reference\bin\Debug\Reference.exe.config
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\Reference\Reference\bin\Debug\Reference.exe
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\Reference\Reference\bin\Debug\Reference.pdb
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\Reference\Reference\obj\Debug\Reference.csproj.AssemblyReference.cache
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\Reference\Reference\obj\Debug\Reference.csproj.CoreCompileInputs.cache
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\Reference\Reference\obj\Debug\Reference.exe
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\Reference\Reference\obj\Debug\Reference.pdb

@@ -5,3 +5,10 @@ C:\Users\gowthamr\source\repos\SampleProject\SampleProject\obj\Debug\SampleProje
 C:\Users\gowthamr\source\repos\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
 C:\Users\gowthamr\source\repos\SampleProject\SampleProject\obj\Debug\SampleProject.exe
 C:\Users\gowthamr\source\repos\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.AssemblyReference.cache
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\SampleProject\SampleProject\obj\Debug\SampleProject.pdb

@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Migrations\\20241211053628_InitialCreate4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241211053628_InitialCreate4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\models\\employeecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:models\\employeecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\controllers\\employeecscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:controllers\\employeecscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\migrations\\20241210095508_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:migrations\\20241210095508_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\mvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:mvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mvcproject\\migrations\\20241210100011_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD2B9FE-0B1D-4AEF-B09A-0099A1AE0264}|MVCProject.csproj|solutionrelative:migrations\\20241210100011_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241211053628_InitialCreate4.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Migrations\\20241211053628_InitialCreate4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241211053628_InitialCreate4.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Migrations\\20241211053628_InitialCreate4.cs",
+              "RelativeToolTip": "Migrations\\20241211053628_InitialCreate4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:36:29.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T12:13:21.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeeDBContext.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\EmployeeDBContext.cs",
+              "RelativeToolTip": "EmployeeDBContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:43:58.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:50:42.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T05:24:08.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employeecs.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Models\\Employeecs.cs",
+              "RelativeDocumentMoniker": "Models\\Employeecs.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Models\\Employeecs.cs",
+              "RelativeToolTip": "Models\\Employeecs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:00:04.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T05:20:54.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeecsController.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Controllers\\EmployeecsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeecsController.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Controllers\\EmployeecsController.cs",
+              "RelativeToolTip": "Controllers\\EmployeecsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:49:43.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241210095508_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Migrations\\20241210095508_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241210095508_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Migrations\\20241210095508_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241210095508_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:55:08.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241210100011_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Migrations\\20241210100011_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241210100011_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\Migrations\\20241210100011_InitialCreate1.cs",
+              "RelativeToolTip": "Migrations\\20241210100011_InitialCreate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:00:11.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T12:38:23.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MVCProject.csproj",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\MVCProject.csproj",
+              "RelativeDocumentMoniker": "MVCProject.csproj",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\MVCProject.csproj",
+              "RelativeToolTip": "MVCProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T09:43:20.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T12:30:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAMsIAAAAAAAAAAAYwKUIAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T12:30:41.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap-reboot.rtl.css",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T12:30:27.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap-reboot.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T12:30:27.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap-reboot.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T12:30:27.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap-reboot.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T12:30:27.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bootstrap-reboot.min.css",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T12:30:26.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bootstrap-reboot.min.css.map",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T12:30:26.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T12:30:26.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
