@@ -45,6 +45,30 @@ namespace DMSEntityFrameWork.Migrations
 
                     b.ToTable("Doctors");
                 });
+
+            modelBuilder.Entity("DMSEntityFrameWork.Models.Patient", b =>
+                {
+                    b.Property<int>("pId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("pId"));
+
+                    b.Property<int?>("id")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("pDisease")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("pName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("pId");
+
+                    b.ToTable("Patients");
+                });
 #pragma warning restore 612, 618
         }
     }

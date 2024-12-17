@@ -7,6 +7,8 @@ namespace DMSEntityFrameWork
     public class DoctorDBContext : DbContext
     {
         public DbSet<Doctor> Doctors { get; set; }
+
+        public DbSet<Patient> Patients { get; set; }
         public DoctorDBContext(DbContextOptions<DoctorDBContext> options) : base(options) { }
 
 

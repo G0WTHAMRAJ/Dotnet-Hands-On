@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\migrations\\doctordbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:migrations\\doctordbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +47,48 @@
       "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\migrations\\20241211060321_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:migrations\\20241211060321_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\migrations\\20241212094511_initial9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:migrations\\20241212094511_initial9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\doctordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:doctordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\migrations\\20241212063311_initial7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:migrations\\20241212063311_initial7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\dmsentityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:dmsentityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\migrations\\20241211060321_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:migrations\\20241211060321_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\migrations\\20241212064946_initial8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:migrations\\20241212064946_initial8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\dmsentityframework\\migrations\\20241212103817_initialbuild9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895309B8-E9B0-4191-BD0C-6EED267FC795}|DMSEntityFrameWork.csproj|solutionrelative:migrations\\20241212103817_initialbuild9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,63 +98,248 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Doctors\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Doctors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Doctors\\Create.cshtml",
-              "RelativeToolTip": "Views\\Doctors\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T10:43:44.424Z",
+              "WhenOpened": "2024-12-13T10:24:08.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Shared\\_PartialView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_PartialView.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Shared\\_PartialView.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_PartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:13:47.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\DoctorDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DoctorDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\DoctorDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DoctorDBContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:22:22.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T10:42:48.744Z",
+              "WhenOpened": "2024-12-13T06:50:05.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T10:36:23.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:33:29.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv5MAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:32:58.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T10:37:29.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20241211060321_Initialcreate1.cs",
-              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241211060321_Initialcreate1.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241211060321_Initialcreate1.cs",
-              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241211060321_Initialcreate1.cs",
-              "RelativeToolTip": "Migrations\\20241211060321_Initialcreate1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T06:03:22.176Z",
+              "WhenOpened": "2024-12-12T05:35:37.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
+              "Title": "20241212103817_Initialbuild9.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241212103817_Initialbuild9.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241212103817_Initialbuild9.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241212103817_Initialbuild9.cs",
+              "RelativeToolTip": "Migrations\\20241212103817_Initialbuild9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:38:17.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:10:48.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T05:29:34.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:28:49.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241212094511_Initial9.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241212094511_Initial9.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241212094511_Initial9.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241212094511_Initial9.cs",
+              "RelativeToolTip": "Migrations\\20241212094511_Initial9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:45:11.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-12T07:06:55.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241212064946_Initial8.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241212064946_Initial8.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241212064946_Initial8.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241212064946_Initial8.cs",
+              "RelativeToolTip": "Migrations\\20241212064946_Initial8.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:49:46.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T07:06:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\DoctorDBContext.cs",
+              "RelativeDocumentMoniker": "DoctorDBContext.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\DoctorDBContext.cs",
+              "RelativeToolTip": "DoctorDBContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:20:03.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241212063311_Initial7.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241212063311_Initial7.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241212063311_Initial7.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241212063311_Initial7.cs",
+              "RelativeToolTip": "Migrations\\20241212063311_Initial7.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:33:11.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -118,86 +347,31 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-11T05:40:35.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T05:40:35.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Models\\Doctor.cs",
-              "RelativeToolTip": "Models\\Doctor.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T05:10:48.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAADwvx8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T05:29:34.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T05:28:49.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DoctorsController.cs",
-              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Controllers\\DoctorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
-              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Controllers\\DoctorsController.cs",
-              "RelativeToolTip": "Controllers\\DoctorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T05:27:52.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DoctorDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\DoctorDBContext.cs",
-              "RelativeDocumentMoniker": "DoctorDBContext.cs",
-              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\DoctorDBContext.cs",
-              "RelativeToolTip": "DoctorDBContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T05:20:03.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DMSEntityFrameWork",
+              "DocumentIndex": 18,
+              "Title": "DMSEntityFrameWork.csproj",
               "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\DMSEntityFrameWork.csproj",
               "RelativeDocumentMoniker": "DMSEntityFrameWork.csproj",
               "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\DMSEntityFrameWork.csproj",
               "RelativeToolTip": "DMSEntityFrameWork.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-11T05:19:35.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T05:19:35.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241211060321_Initialcreate1.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241211060321_Initialcreate1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241211060321_Initialcreate1.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\DMSEntityFrameWork\\Migrations\\20241211060321_Initialcreate1.cs",
+              "RelativeToolTip": "Migrations\\20241211060321_Initialcreate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:03:22.176Z"
             }
           ]
         }

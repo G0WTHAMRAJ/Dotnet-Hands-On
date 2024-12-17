@@ -1,0 +1,15 @@
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\bin\Debug\net8.0\APIPrint.exe
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\bin\Debug\net8.0\APIPrint.deps.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\bin\Debug\net8.0\APIPrint.runtimeconfig.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\bin\Debug\net8.0\APIPrint.dll
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\bin\Debug\net8.0\APIPrint.pdb
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\obj\Debug\net8.0\APIPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\obj\Debug\net8.0\APIPrint.AssemblyInfoInputs.cache
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\obj\Debug\net8.0\APIPrint.AssemblyInfo.cs
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\obj\Debug\net8.0\APIPrint.csproj.CoreCompileInputs.cache
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\obj\Debug\net8.0\APIPrint.sourcelink.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\obj\Debug\net8.0\APIPrint.dll
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\obj\Debug\net8.0\refint\APIPrint.dll
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\obj\Debug\net8.0\APIPrint.pdb
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\obj\Debug\net8.0\APIPrint.genruntimeconfig.cache
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\APIPrint\obj\Debug\net8.0\ref\APIPrint.dll

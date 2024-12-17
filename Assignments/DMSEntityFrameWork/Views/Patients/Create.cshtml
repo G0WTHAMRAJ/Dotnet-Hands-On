@@ -1,0 +1,68 @@
+﻿@model DMSEntityFrameWork.Models.Patient
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Patient</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" id="myForm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="pName" class="control-label"></label>
+                <input asp-for="pName" class="form-control" />
+                <span asp-validation-for="pName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="pDisease" class="control-label"></label>
+                <input asp-for="pDisease" class="form-control" />
+                <span asp-validation-for="pDisease" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="id" class="control-label"></label>
+                <!-- Replacing the text input with a dropdown -->
+                <select asp-for="id" class="form-control" id="idSelect">
+                    <option value="">Select Item</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                </select>
+                <span asp-validation-for="id" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    @{
+        await Html.RenderPartialAsync("_PartialView");
+    }
+
+    <script>
+        // JavaScript to validate the dropdown before submitting the form
+        document.getElementById("myForm").addEventListener("submit", function (event) {
+            const selectElement = document.getElementById("idSelect");
+            if (selectElement.value === "") {
+                event.preventDefault(); // Prevent form submission
+                alert("Please select a valid patient from the list.");
+            }
+        });
+    </script>
+}

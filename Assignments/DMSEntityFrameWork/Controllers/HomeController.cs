@@ -17,10 +17,13 @@ namespace DMSEntityFrameWork.Controllers
             TempData["Name"] = Name;
             TempData["Qualification"] = Qualification;
             TempData["Specialisation"] = Specialisation;
+
 ;
             return RedirectToAction("Create", "Doctors");
+
         }
 
+      
         public IActionResult ShowDoctors()
         {
             return RedirectToAction("Index", "Doctors");

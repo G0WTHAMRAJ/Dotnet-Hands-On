@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DMSEntityFrameWork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e02a014880c86e55e7369fdb47a001228fa6ed6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0db5d5fa532fc0afbf6cb56e1094af6f82772fe1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DMSEntityFrameWork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DMSEntityFrameWork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
