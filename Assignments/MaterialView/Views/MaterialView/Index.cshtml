@@ -1,0 +1,59 @@
+﻿@model IEnumerable<MMSApi.Model.Material>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.mId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.mName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.mType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.mQuantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.mRetailer)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.mId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.mName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.mType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.mQuantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.mRetailer)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

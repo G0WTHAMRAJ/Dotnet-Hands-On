@@ -1,0 +1,53 @@
+﻿@model MMSApi.Model.Material
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Material</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="mId" class="control-label"></label>
+                <input asp-for="mId" class="form-control" />
+                <span asp-validation-for="mId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="mName" class="control-label"></label>
+                <input asp-for="mName" class="form-control" />
+                <span asp-validation-for="mName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="mType" class="control-label"></label>
+                <input asp-for="mType" class="form-control" />
+                <span asp-validation-for="mType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="mQuantity" class="control-label"></label>
+                <input asp-for="mQuantity" class="form-control" />
+                <span asp-validation-for="mQuantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="mRetailer" class="control-label"></label>
+                <input asp-for="mRetailer" class="form-control" />
+                <span asp-validation-for="mRetailer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

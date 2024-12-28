@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\controllers\\petanimalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:controllers\\petanimalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\views\\pet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\model\\petanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:model\\petanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\projectpetview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\model\\petvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:model\\petvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97390366-1A59-4E5A-9E0B-ECB4EA67E91A}|..\\ProjectPetView\\ProjectPetView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\projectpetview\\views\\pet\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\coreapiefproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:coreapiefproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\coreapiefproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:coreapiefproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\migrations\\20241224055339_initialserve1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:migrations\\20241224055339_initialserve1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\migrations\\20241224064837_initialserve2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:migrations\\20241224064837_initialserve2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\coreapiefproject\\migrations\\20241226091253_initialserve4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C3729-F960-43DE-AA80-BDA9861C2E1D}|CoreApiEFProject.csproj|solutionrelative:migrations\\20241226091253_initialserve4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Program.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Program.cs",
+              "RelativeToolTip": "..\\ProjectPetView\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:41:51.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Controllers\\PetController.cs",
+              "RelativeToolTip": "..\\ProjectPetView\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:16:25.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:25:45.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Pet\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Views\\Pet\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Pet\\Create.cshtml",
+              "RelativeToolTip": "..\\ProjectPetView\\Views\\Pet\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:16:06.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\ProjectPetView\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:40:36.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetAnimalsController.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Controllers\\PetAnimalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PetAnimalsController.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Controllers\\PetAnimalsController.cs",
+              "RelativeToolTip": "Controllers\\PetAnimalsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:39:13.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\ProjectPetView\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:40:49.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\ProjectPetView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T10:25:09.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\ProjectPetView\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T05:56:52.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Pet\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Views\\Pet\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Pet\\Index.cshtml",
+              "RelativeToolTip": "..\\ProjectPetView\\Views\\Pet\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:09:47.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\ProjectPetView\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:41:46.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\ProjectPetView\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:41:48.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\ProjectPetView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T06:51:46.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PetAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Model\\PetAnimal.cs",
+              "RelativeDocumentMoniker": "Model\\PetAnimal.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Model\\PetAnimal.cs",
+              "RelativeToolTip": "Model\\PetAnimal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:00:04.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectPetView.csproj",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\ProjectPetView.csproj",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\ProjectPetView.csproj",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\ProjectPetView.csproj",
+              "RelativeToolTip": "..\\ProjectPetView\\ProjectPetView.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T09:34:18.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PetDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\PetDBContext.cs",
+              "RelativeDocumentMoniker": "PetDBContext.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\PetDBContext.cs",
+              "RelativeToolTip": "PetDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:12:34.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PetValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Model\\PetValidator.cs",
+              "RelativeDocumentMoniker": "Model\\PetValidator.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Model\\PetValidator.cs",
+              "RelativeToolTip": "Model\\PetValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:40:28.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Pet\\Update.cshtml",
+              "RelativeDocumentMoniker": "..\\ProjectPetView\\Views\\Pet\\Update.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\ProjectPetView\\Views\\Pet\\Update.cshtml",
+              "RelativeToolTip": "..\\ProjectPetView\\Views\\Pet\\Update.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:37:39.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241226091253_initialserve4.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Migrations\\20241226091253_initialserve4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241226091253_initialserve4.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Migrations\\20241226091253_initialserve4.cs",
+              "RelativeToolTip": "Migrations\\20241226091253_initialserve4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:12:53.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T05:32:57.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoreApiEFProject.http",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\CoreApiEFProject.http",
+              "RelativeDocumentMoniker": "CoreApiEFProject.http",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\CoreApiEFProject.http",
+              "RelativeToolTip": "CoreApiEFProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-24T10:33:48.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CoreApiEFProject.csproj",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\CoreApiEFProject.csproj",
+              "RelativeDocumentMoniker": "CoreApiEFProject.csproj",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\CoreApiEFProject.csproj",
+              "RelativeToolTip": "CoreApiEFProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T04:58:33.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241224064837_initialserve2.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Migrations\\20241224064837_initialserve2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241224064837_initialserve2.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Migrations\\20241224064837_initialserve2.cs",
+              "RelativeToolTip": "Migrations\\20241224064837_initialserve2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:48:37.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241224055339_initialserve1.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Migrations\\20241224055339_initialserve1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241224055339_initialserve1.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\CoreApiEFProject\\Migrations\\20241224055339_initialserve1.cs",
+              "RelativeToolTip": "Migrations\\20241224055339_initialserve1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:53:39.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

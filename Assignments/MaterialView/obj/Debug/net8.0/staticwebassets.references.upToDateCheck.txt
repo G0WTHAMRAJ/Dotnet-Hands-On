@@ -1,0 +1,10 @@
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\MMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\MMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\MMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\MMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\MMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\MMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\MMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\MMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\MMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gowthamr\BIWW\Dotnet\Assignments\MMSApi\obj\Debug\net8.0\staticwebassets.build.json

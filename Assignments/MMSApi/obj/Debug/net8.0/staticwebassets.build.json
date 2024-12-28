@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "khJqgLiDC2fr802k7v65E9DMn1vjFh8rzQI8Ykicc4w=",
+  "Source": "MMSApi",
+  "BasePath": "_content/MMSApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

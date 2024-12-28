@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E3C593-6DAD-48B3-865C-BEC22F9B54C3}|MMSApi.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mmsapi\\model\\materialvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E3C593-6DAD-48B3-865C-BEC22F9B54C3}|MMSApi.csproj|solutionrelative:model\\materialvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E3C593-6DAD-48B3-865C-BEC22F9B54C3}|MMSApi.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mmsapi\\model\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E3C593-6DAD-48B3-865C-BEC22F9B54C3}|MMSApi.csproj|solutionrelative:model\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40639C-F237-46DB-B63E-20671EBAD5A2}|..\\MaterialView\\MaterialView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\materialview\\views\\materialview\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40639C-F237-46DB-B63E-20671EBAD5A2}|..\\MaterialView\\MaterialView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\materialview\\controllers\\materialviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40639C-F237-46DB-B63E-20671EBAD5A2}|..\\MaterialView\\MaterialView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\materialview\\materialview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E3C593-6DAD-48B3-865C-BEC22F9B54C3}|MMSApi.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E3C593-6DAD-48B3-865C-BEC22F9B54C3}|MMSApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40639C-F237-46DB-B63E-20671EBAD5A2}|..\\MaterialView\\MaterialView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\materialview\\views\\materialview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40639C-F237-46DB-B63E-20671EBAD5A2}|..\\MaterialView\\MaterialView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\materialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40639C-F237-46DB-B63E-20671EBAD5A2}|..\\MaterialView\\MaterialView.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\materialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E3C593-6DAD-48B3-865C-BEC22F9B54C3}|MMSApi.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mmsapi\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E3C593-6DAD-48B3-865C-BEC22F9B54C3}|MMSApi.csproj|solutionrelative:controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Migrations\\20241228052421_initialserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241228052421_initialserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E3C593-6DAD-48B3-865C-BEC22F9B54C3}|MMSApi.csproj|c:\\users\\gowthamr\\biww\\dotnet\\assignments\\mmsapi\\materialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E3C593-6DAD-48B3-865C-BEC22F9B54C3}|MMSApi.csproj|solutionrelative:materialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\Views\\MaterialView\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\MaterialView\\Views\\MaterialView\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\Views\\MaterialView\\Create.cshtml",
+              "RelativeToolTip": "..\\MaterialView\\Views\\MaterialView\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T06:13:31.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:11:11.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Model\\Material.cs",
+              "RelativeDocumentMoniker": "Model\\Material.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Model\\Material.cs",
+              "RelativeToolTip": "Model\\Material.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:47:49.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaterialViewController.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\Controllers\\MaterialViewController.cs",
+              "RelativeDocumentMoniker": "..\\MaterialView\\Controllers\\MaterialViewController.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\Controllers\\MaterialViewController.cs",
+              "RelativeToolTip": "..\\MaterialView\\Controllers\\MaterialViewController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA3wDYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:35:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Model\\MaterialValidator.cs",
+              "RelativeDocumentMoniker": "Model\\MaterialValidator.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Model\\MaterialValidator.cs",
+              "RelativeToolTip": "Model\\MaterialValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:54:07.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\Views\\MaterialView\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MaterialView\\Views\\MaterialView\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\Views\\MaterialView\\Index.cshtml",
+              "RelativeToolTip": "..\\MaterialView\\Views\\MaterialView\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T05:52:46.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaterialView",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\MaterialView.csproj",
+              "RelativeDocumentMoniker": "..\\MaterialView\\MaterialView.csproj",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\MaterialView.csproj",
+              "RelativeToolTip": "..\\MaterialView\\MaterialView.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T06:04:25.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MaterialView\\Program.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\Program.cs",
+              "RelativeToolTip": "..\\MaterialView\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:57:57.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\MaterialView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MaterialView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\MaterialView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T06:07:35.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaterialController.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Controllers\\MaterialController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaterialController.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Controllers\\MaterialController.cs",
+              "RelativeToolTip": "Controllers\\MaterialController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:23:19.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241228052421_initialserve.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Migrations\\20241228052421_initialserve.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241228052421_initialserve.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\Migrations\\20241228052421_initialserve.cs",
+              "RelativeToolTip": "Migrations\\20241228052421_initialserve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:24:21.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaterialDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\MaterialDBContext.cs",
+              "RelativeDocumentMoniker": "MaterialDBContext.cs",
+              "ToolTip": "C:\\Users\\gowthamr\\BIWW\\Dotnet\\Assignments\\MMSApi\\MaterialDBContext.cs",
+              "RelativeToolTip": "MaterialDBContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:02:39.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

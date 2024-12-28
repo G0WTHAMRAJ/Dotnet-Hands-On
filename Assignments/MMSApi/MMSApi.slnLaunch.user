@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MMSApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\MaterialView\\MaterialView.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
