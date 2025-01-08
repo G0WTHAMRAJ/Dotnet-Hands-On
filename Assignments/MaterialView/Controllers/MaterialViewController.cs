@@ -49,7 +49,7 @@ namespace MaterialView.Controllers
         {
             return View();
         }
-        // POST: PetAnimals/Create
+        // POST: Material/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind("mId, mName, mType, mQuantity,mRetailer")] Material material)
